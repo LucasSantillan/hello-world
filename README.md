@@ -3,7 +3,7 @@ Para aprender como funciona Git y GitHub
 
 ## Lucas
 
-Mi nombre es **Lucas** y quiero combertirme en programador *Font-end*.
+Mi nombre es **Lucas** y quiero convertirme en programador *Front-end*.
 
 *Soy músico* y toco varios instrumentos
 
