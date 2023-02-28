@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Mi formulario</title>
+    <style>
+      /* CSS para establecer el borde rojo alrededor de las imágenes */
+      .bordeRojo {
+        border: 3px solid red;
+      }
+      
+      img {
+        margin: 0.5rem 0;
+        background-color: bisque;
+        border: 3px solid white;
+        display: none;
+        width: 100px;
+        height: 100px;
+      }
+    </style>
+  </head>
+  <body>
+    <form>
+      <label for="matricula">Matrícula:</label>
+      <input
+        type="text"
+        id="matricula"
+        name="matricula"
+        pattern="[0-9]{4}-[a-z&&[^aeiou]]{3}"
+        required
+      />
+      <br /><br />
+      <label for="tipo">Tipo:</label>
+      <select id="tipo" name="tipo">
+        <option value="motocicleta" selected>Motocicleta</option>
+        <option value="automovil">Automóvil</option>
+        <option value="camion">Camión</option>
+      </select>
+      <br />
+      <img id="menorEdad" src="img/menor-de-edad.png" alt="Menor de edad">
+      <img id="mayorEdad" src="img/mayor-de-edad.png" alt="Mayor de edad">
+      <img id="particular" src="img/paticular.png" alt="Particular">
+      <img id="profesional" src="img/profecional.png" alt="Profesional">
+      <img id="rigido" src="img/rigido.png" alt="Rígido">
+      <img id="articulado" src="img/articulado.png" alt="Articulado">
+    </form>
+    <button id="submitBtn">Mostrar datos</button>
+    <div id="resultado"></div>
+
+    <script>
+      // Seleccionar los elementos del formulario
+      const matricula = document.getElementById("matricula");
+      const tipo      = document.getElementById("tipo");
+
+      const menorEdad   = document.getElementById("menorEdad");
+      const mayorEdad   = document.getElementById("mayorEdad");
+      const particular  = document.getElementById("particular");
+      const profesional = document.getElementById("profesional");
+      const rigido      = document.getElementById("rigido");
+      const articulado  = document.getElementById("articulado");
+      
+      const submitBtn = document.getElementById("submitBtn");
+      const resultado = document.getElementById("resultado");
+
+      // Mostrar las imágenes al inicio
+      menorEdad.style.display = "block";
+      mayorEdad.style.display = "block";
+      
+      // Mostrar las imágenes adecuadas dependiendo de la opción seleccionada en el campo "tipo"
+      tipo.addEventListener("change", function () {
+        menorEdad.style.display   = (this.value === "motocicleta") ? "block" : "none";
+        mayorEdad.style.display   = (this.value === "motocicleta") ? "block" : "none";;
+        particular.style.display  = (this.value === "automovil") ? "block" : "none";
+        profesional.style.display = (this.value === "automovil") ? "block" : "none";
+        rigido.style.display      = (this.value === "camion") ? "block" : "none";
+        articulado.style.display  = (this.value === "camion") ? "block" : "none";
+
+        // Remueve las clases "bordeRojo", si hubiera, cuando se cambia de tipo
+        let imgs = document.querySelectorAll(".bordeRojo");
+        if (imgs.length > 0) {
+          for(let i of imgs) {
+            i.classList.remove("bordeRojo");
+          }
+        }
+      });
+
+      // Añadir o quitar la clase "bordeRojo" a las imágenes al hacer clic en ellas
+      menorEdad.addEventListener("click", bordeToggle, false);
+      mayorEdad.addEventListener("click", bordeToggle, false);
+      particular.addEventListener("click", bordeToggle, false);
+      profesional.addEventListener("click", bordeToggle, false);
+      rigido.addEventListener("click", bordeToggle, false);
+      articulado.addEventListener("click", bordeToggle, false);
+
+      function bordeToggle() {
+        this.classList.toggle("bordeRojo");
+      }
+
+      // Mostrar los datos del formulario al hacer clic en el botón "Mostrar datos"
+      submitBtn.addEventListener("click", function () {
+        resultado.innerHTML = `Matrícula: ${matricula.value}<br> Tipo: ${tipo.value}<br>`;
+
+        // Obtener las imágenes con la clase "bordeRojo"
+        let imgs = document.querySelectorAll(".bordeRojo");
+
+        // Mostrar el atributo alt de las imágenes marcadas en rojo
+        if (imgs.length > 0) {
+          resultado.innerHTML += `Imágenes seleccionadas: `;
+          for (let i of imgs) {
+            resultado.innerHTML += `${i.alt} `;
+          }
+        } else {
+          resultado.innerHTML += `No se ha seleccionado ninguna imagen`;
+        }
+      });
+    </script>
+  </body>
+</html>
