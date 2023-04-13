@@ -1,0 +1,938 @@
+[
+ {
+   "DENOMINACIÓN": "Vitor a San Pedro Bautista",
+   "LOCALIDAD": "San Esteban del Valle",
+   "PROVINCIA": "Ávila",
+   "Regional": 1991,
+   "Nacional": null,
+   "Internacional": ""
+ },
+ {
+   "DENOMINACIÓN": "Semana Santa",
+   "LOCALIDAD": "Ávila",
+   "PROVINCIA": "Ávila",
+   "Regional": 1993,
+   "Nacional": 2005,
+   "Internacional": "2014"
+ },
+ {
+   "DENOMINACIÓN": "Romería de Nuestra Señora de Chilla",
+   "LOCALIDAD": "Candeleda",
+   "PROVINCIA": "Ávila",
+   "Regional": 1996,
+   "Nacional": null,
+   "Internacional": ""
+ },
+ {
+   "DENOMINACIÓN": "Romería del Cristo de la Luz",
+   "LOCALIDAD": "Lanzahita",
+   "PROVINCIA": "Ávila",
+   "Regional": 2001,
+   "Nacional": null,
+   "Internacional": ""
+ },
+ {
+   "DENOMINACIÓN": "Romería de San Pedro de Alcántara",
+   "LOCALIDAD": "Arenas de San Pedro",
+   "PROVINCIA": "Ávila",
+   "Regional": 2003,
+   "Nacional": null,
+   "Internacional": ""
+ },
+ {
+   "DENOMINACIÓN": "Los Carnavales",
+   "LOCALIDAD": "Cebreros",
+   "PROVINCIA": "Ávila",
+   "Regional": 2009,
+   "Nacional": null,
+   "Internacional": ""
+ },
+ {
+   "DENOMINACIÓN": "La procesión de los romances",
+   "LOCALIDAD": "Navaluenga",
+   "PROVINCIA": "Ávila",
+   "Regional": 2009,
+   "Nacional": null,
+   "Internacional": ""
+ },
+ {
+   "DENOMINACIÓN": "Jornadas Medievales",
+   "LOCALIDAD": "Ávila",
+   "PROVINCIA": "Ávila",
+   "Regional": 2017,
+   "Nacional": null,
+   "Internacional": ""
+ },
+ {
+   "DENOMINACIÓN": "Carnaval de Navalosa, Cucurrumachos y Domingo Gordo",
+   "LOCALIDAD": "Navalosa",
+   "PROVINCIA": "Ávila",
+   "Regional": 2022,
+   "Nacional": null,
+   "Internacional": ""
+ },
+ {
+   "DENOMINACIÓN": "Fiestas de San Pedro y San Pablo \"Día de las Peñas\"",
+   "LOCALIDAD": "Burgos",
+   "PROVINCIA": "Burgos",
+   "Regional": 1996,
+   "Nacional": null,
+   "Internacional": ""
+ },
+ {
+   "DENOMINACIÓN": "Fiesta del Colacho",
+   "LOCALIDAD": "Castrillo de Murcia",
+   "PROVINCIA": "Burgos",
+   "Regional": 1996,
+   "Nacional": null,
+   "Internacional": ""
+ },
+ {
+   "DENOMINACIÓN": "Fiestas de San Juan del Monte",
+   "LOCALIDAD": "Miranda de Ebro",
+   "PROVINCIA": "Burgos",
+   "Regional": 1996,
+   "Nacional": 2015,
+   "Internacional": ""
+ },
+ {
+   "DENOMINACIÓN": "Danza del Escarrete",
+   "LOCALIDAD": "Poza de la Sal",
+   "PROVINCIA": "Burgos",
+   "Regional": 1998,
+   "Nacional": null,
+   "Internacional": ""
+ },
+ {
+   "DENOMINACIÓN": "Fiesta de la Tabera",
+   "LOCALIDAD": "Briviesca",
+   "PROVINCIA": "Burgos",
+   "Regional": 2000,
+   "Nacional": null,
+   "Internacional": ""
+ },
+ {
+   "DENOMINACIÓN": "Fiesta del Capitán",
+   "LOCALIDAD": "Frías",
+   "PROVINCIA": "Burgos",
+   "Regional": 2000,
+   "Nacional": null,
+   "Internacional": ""
+ },
+ {
+   "DENOMINACIÓN": "Romería de San Bernabé",
+   "LOCALIDAD": "Merindad de Sotoscueva",
+   "PROVINCIA": "Burgos",
+   "Regional": 2000,
+   "Nacional": null,
+   "Internacional": ""
+ },
+ {
+   "DENOMINACIÓN": "Romería de Nuestra Señora de las Nieves",
+   "LOCALIDAD": "Las Machorras",
+   "PROVINCIA": "Burgos",
+   "Regional": 2001,
+   "Nacional": null,
+   "Internacional": ""
+ },
+ {
+   "DENOMINACIÓN": "Fiesta de los Jefes",
+   "LOCALIDAD": "Santo Domingo de Silos",
+   "PROVINCIA": "Burgos",
+   "Regional": 2003,
+   "Nacional": null,
+   "Internacional": ""
+ },
+ {
+   "DENOMINACIÓN": "El Curpillos",
+   "LOCALIDAD": "Burgos",
+   "PROVINCIA": "Burgos ",
+   "Regional": 2004,
+   "Nacional": null,
+   "Internacional": ""
+ },
+ {
+   "DENOMINACIÓN": "La Semana Santa",
+   "LOCALIDAD": "Aranda de Duero",
+   "PROVINCIA": "Burgos",
+   "Regional": 2005,
+   "Nacional": null,
+   "Internacional": ""
+ },
+ {
+   "DENOMINACIÓN": "Semana Santa",
+   "LOCALIDAD": "Burgos",
+   "PROVINCIA": "Burgos",
+   "Regional": 2006,
+   "Nacional": 2013,
+   "Internacional": ""
+ },
+ {
+   "DENOMINACIÓN": "El Cronicón",
+   "LOCALIDAD": "Oña",
+   "PROVINCIA": "Burgos",
+   "Regional": 2008,
+   "Nacional": null,
+   "Internacional": ""
+ },
+ {
+   "DENOMINACIÓN": "Romería de la Virgen de Castro",
+   "LOCALIDAD": "Caleruega",
+   "PROVINCIA": "Burgos",
+   "Regional": 2010,
+   "Nacional": null,
+   "Internacional": ""
+ },
+ {
+   "DENOMINACIÓN": "La batalla de Atapuerca",
+   "LOCALIDAD": "Atapuerca",
+   "PROVINCIA": "Burgos",
+   "Regional": 2017,
+   "Nacional": null,
+   "Internacional": ""
+ },
+ {
+   "DENOMINACIÓN": "Fiesta a Baco ",
+   "LOCALIDAD": "Baños de Valdearados",
+   "PROVINCIA": "Burgos",
+   "Regional": 2020,
+   "Nacional": null,
+   "Internacional": ""
+ },
+ {
+   "DENOMINACIÓN": "Pasión Viviente ",
+   "LOCALIDAD": "Covarrubias ",
+   "PROVINCIA": "Burgos",
+   "Regional": 2022,
+   "Nacional": null,
+   "Internacional": ""
+ },
+ {
+   "DENOMINACIÓN": "Los Titos de San Antón",
+   "LOCALIDAD": "Burgos",
+   "PROVINCIA": "Burgos",
+   "Regional": 2022,
+   "Nacional": null,
+   "Internacional": ""
+ },
+ {
+   "DENOMINACIÓN": "Ruta del Emperador Carlos V ",
+   "LOCALIDAD": "Medina de Pomar",
+   "PROVINCIA": "Burgos",
+   "Regional": 2022,
+   "Nacional": null,
+   "Internacional": ""
+ },
+ {
+   "DENOMINACIÓN": "Cabalgata de Reyes y Belén Viviente ",
+   "LOCALIDAD": "Torregalindo ",
+   "PROVINCIA": "Burgos",
+   "Regional": 2022,
+   "Nacional": null,
+   "Internacional": ""
+ },
+ {
+   "DENOMINACIÓN": "Corpus Christi",
+   "LOCALIDAD": "Laguna de Negrillos",
+   "PROVINCIA": "León",
+   "Regional": 1991,
+   "Nacional": null,
+   "Internacional": ""
+ },
+ {
+   "DENOMINACIÓN": "La Ronda y La Procesión de los Pasos",
+   "LOCALIDAD": "León",
+   "PROVINCIA": "León",
+   "Regional": 1993,
+   "Nacional": 1998,
+   "Internacional": "2002(Men.Es.)"
+ },
+ {
+   "DENOMINACIÓN": "Semana Santa",
+   "LOCALIDAD": "Astorga",
+   "PROVINCIA": "León",
+   "Regional": 1997,
+   "Nacional": 2011,
+   "Internacional": ""
+ },
+ {
+   "DENOMINACIÓN": "Justas Medievales del Passo Honrosso",
+   "LOCALIDAD": "Hospital de Órbigo",
+   "PROVINCIA": "León",
+   "Regional": 1998,
+   "Nacional": null,
+   "Internacional": ""
+ },
+ {
+   "DENOMINACIÓN": "Semana Santa",
+   "LOCALIDAD": "León",
+   "PROVINCIA": "León",
+   "Regional": 1998,
+   "Nacional": 1999,
+   "Internacional": "2002"
+ },
+ {
+   "DENOMINACIÓN": "Semana Santa",
+   "LOCALIDAD": "Ponferrada",
+   "PROVINCIA": "León",
+   "Regional": 1999,
+   "Nacional": 2015,
+   "Internacional": ""
+ },
+ {
+   "DENOMINACIÓN": "Festival de Exaltación del Botillo",
+   "LOCALIDAD": "Bembibre",
+   "PROVINCIA": "León",
+   "Regional": 2000,
+   "Nacional": 2008,
+   "Internacional": ""
+ },
+ {
+   "DENOMINACIÓN": "Los Carnavales",
+   "LOCALIDAD": "La Bañeza",
+   "PROVINCIA": "León",
+   "Regional": 2002,
+   "Nacional": 2011,
+   "Internacional": ""
+ },
+ {
+   "DENOMINACIÓN": "Fiesta de las Cabezadas",
+   "LOCALIDAD": "León",
+   "PROVINCIA": "León",
+   "Regional": 2003,
+   "Nacional": null,
+   "Internacional": ""
+ },
+ {
+   "DENOMINACIÓN": "La Semana Internacional de la Trucha y su concurso gastronómico",
+   "LOCALIDAD": "León",
+   "PROVINCIA": "León",
+   "Regional": 2004,
+   "Nacional": null,
+   "Internacional": ""
+ },
+ {
+   "DENOMINACIÓN": "Fiesta de San Froilán y Romería de San Froilán",
+   "LOCALIDAD": "León",
+   "PROVINCIA": "León",
+   "Regional": 2005,
+   "Nacional": null,
+   "Internacional": ""
+ },
+ {
+   "DENOMINACIÓN": "Fiesta de San Froilán y Romería de San Froilán",
+   "LOCALIDAD": "Virgen del Camino",
+   "PROVINCIA": "León",
+   "Regional": 2005,
+   "Nacional": null,
+   "Internacional": ""
+ },
+ {
+   "DENOMINACIÓN": "Las Cantaderas",
+   "LOCALIDAD": "León ",
+   "PROVINCIA": "León",
+   "Regional": 2005,
+   "Nacional": null,
+   "Internacional": ""
+ },
+ {
+   "DENOMINACIÓN": "Semana Santa",
+   "LOCALIDAD": "Sahagún",
+   "PROVINCIA": "León",
+   "Regional": 2008,
+   "Nacional": null,
+   "Internacional": ""
+ },
+ {
+   "DENOMINACIÓN": "El Magosto",
+   "LOCALIDAD": "Santa Marina del Sil",
+   "PROVINCIA": "León",
+   "Regional": 2008,
+   "Nacional": null,
+   "Internacional": ""
+ },
+ {
+   "DENOMINACIÓN": "Noche Mágica",
+   "LOCALIDAD": "Balboa",
+   "PROVINCIA": "León",
+   "Regional": 2010,
+   "Nacional": null,
+   "Internacional": ""
+ },
+ {
+   "DENOMINACIÓN": "Fiestas Astur-Romanas",
+   "LOCALIDAD": "Astorga",
+   "PROVINCIA": "León",
+   "Regional": 2011,
+   "Nacional": null,
+   "Internacional": ""
+ },
+ {
+   "DENOMINACIÓN": "Procesión del Corpus Chico",
+   "LOCALIDAD": "León",
+   "PROVINCIA": "León",
+   "Regional": 2022,
+   "Nacional": null,
+   "Internacional": ""
+ },
+ {
+   "DENOMINACIÓN": "San Bartolomé",
+   "LOCALIDAD": "Villarramiel",
+   "PROVINCIA": "Palencia",
+   "Regional": 1992,
+   "Nacional": null,
+   "Internacional": ""
+ },
+ {
+   "DENOMINACIÓN": "Exaltación del Cangrejo de Río",
+   "LOCALIDAD": "Herrera del Pisuerga",
+   "PROVINCIA": "Palencia",
+   "Regional": 1994,
+   "Nacional": null,
+   "Internacional": ""
+ },
+ {
+   "DENOMINACIÓN": "Gran Paellada Ollerense",
+   "LOCALIDAD": "Olleros de Pisuerga",
+   "PROVINCIA": "Palencia",
+   "Regional": 1994,
+   "Nacional": null,
+   "Internacional": ""
+ },
+ {
+   "DENOMINACIÓN": "Descenso Internacional del Pisuerga y Fiesta Palentina de las Piraguas",
+   "LOCALIDAD": "Alar del Rey",
+   "PROVINCIA": "Palencia",
+   "Regional": 1996,
+   "Nacional": null,
+   "Internacional": ""
+ },
+ {
+   "DENOMINACIÓN": "Fiestas de San Juan Bautista",
+   "LOCALIDAD": "Baños de Cerrato",
+   "PROVINCIA": "Palencia",
+   "Regional": 1996,
+   "Nacional": null,
+   "Internacional": ""
+ },
+ {
+   "DENOMINACIÓN": "Día de Fuentes Carrionas y la Montaña Palentina",
+   "LOCALIDAD": "Velilla del Río Carrión",
+   "PROVINCIA": "Palencia",
+   "Regional": 1997,
+   "Nacional": null,
+   "Internacional": ""
+ },
+ {
+   "DENOMINACIÓN": "Semana Santa",
+   "LOCALIDAD": "Palencia",
+   "PROVINCIA": "Palencia",
+   "Regional": 1998,
+   "Nacional": 2005,
+   "Internacional": "2012"
+ },
+ {
+   "DENOMINACIÓN": "El Bautizo del Niño",
+   "LOCALIDAD": "Palencia",
+   "PROVINCIA": "Palencia",
+   "Regional": 1999,
+   "Nacional": 2015,
+   "Internacional": ""
+ },
+ {
+   "DENOMINACIÓN": "Fiestas Patronales de la Virgen del Valle",
+   "LOCALIDAD": "Saldaña",
+   "PROVINCIA": "Palencia",
+   "Regional": 1999,
+   "Nacional": null,
+   "Internacional": ""
+ },
+ {
+   "DENOMINACIÓN": "Romería de Santo Toribio",
+   "LOCALIDAD": "Palencia",
+   "PROVINCIA": "Palencia",
+   "Regional": 2005,
+   "Nacional": null,
+   "Internacional": ""
+ },
+ {
+   "DENOMINACIÓN": "Corpus Christi",
+   "LOCALIDAD": "Carrión de los Condes",
+   "PROVINCIA": "Palencia",
+   "Regional": 2008,
+   "Nacional": null,
+   "Internacional": ""
+ },
+ {
+   "DENOMINACIÓN": "Carnaval de la Galleta",
+   "LOCALIDAD": "Aguilar de Campoo",
+   "PROVINCIA": "Palencia",
+   "Regional": 2018,
+   "Nacional": null,
+   "Internacional": ""
+ },
+ {
+   "DENOMINACIÓN": "Santa Bárbara ",
+   "LOCALIDAD": "Barruelo de Santullán ",
+   "PROVINCIA": "Palencia",
+   "Regional": 2022,
+   "Nacional": null,
+   "Internacional": ""
+ },
+ {
+   "DENOMINACIÓN": "La Charrada",
+   "LOCALIDAD": "Ciudad Rodrigo",
+   "PROVINCIA": "Salamanca",
+   "Regional": 1991,
+   "Nacional": null,
+   "Internacional": ""
+ },
+ {
+   "DENOMINACIÓN": "Semana Santa",
+   "LOCALIDAD": "Salamanca",
+   "PROVINCIA": "Salamanca",
+   "Regional": 1995,
+   "Nacional": 1998,
+   "Internacional": "2003"
+ },
+ {
+   "DENOMINACIÓN": "Procesión del Corpus",
+   "LOCALIDAD": "Béjar",
+   "PROVINCIA": "Salamanca",
+   "Regional": 1998,
+   "Nacional": 2010,
+   "Internacional": ""
+ },
+ {
+   "DENOMINACIÓN": "Nuetra Señora de la Asunción",
+   "LOCALIDAD": "La Alberca",
+   "PROVINCIA": "Salamanca",
+   "Regional": null,
+   "Nacional": 1965,
+   "Internacional": ""
+ },
+ {
+   "DENOMINACIÓN": "Carnaval de Toro",
+   "LOCALIDAD": "Ciudad Rodrigo",
+   "PROVINCIA": "Salamanca",
+   "Regional": null,
+   "Nacional": 1965,
+   "Internacional": ""
+ },
+ {
+   "DENOMINACIÓN": "El Noveno",
+   "LOCALIDAD": "San Felices de los Gallegos",
+   "PROVINCIA": "Salamanca",
+   "Regional": 2005,
+   "Nacional": null,
+   "Internacional": ""
+ },
+ {
+   "DENOMINACIÓN": "Boda típica",
+   "LOCALIDAD": "Candelario",
+   "PROVINCIA": "Salamanca",
+   "Regional": 2009,
+   "Nacional": null,
+   "Internacional": ""
+ },
+ {
+   "DENOMINACIÓN": "Matanza Típica",
+   "LOCALIDAD": "Guijuelo",
+   "PROVINCIA": "Salamanca",
+   "Regional": 2011,
+   "Nacional": null,
+   "Internacional": ""
+ },
+ {
+   "DENOMINACIÓN": "Corpus Christi",
+   "LOCALIDAD": "La Alberca",
+   "PROVINCIA": "Salamanca",
+   "Regional": 2011,
+   "Nacional": null,
+   "Internacional": ""
+ },
+ {
+   "DENOMINACIÓN": "La Procesión de los Candiles",
+   "LOCALIDAD": "Miranda del Castañar",
+   "PROVINCIA": "Salamanca",
+   "Regional": 2017,
+   "Nacional": null,
+   "Internacional": ""
+ },
+ {
+   "DENOMINACIÓN": "Lunes de Aguas ",
+   "LOCALIDAD": "Salamanca",
+   "PROVINCIA": "Salamanca",
+   "Regional": 2018,
+   "Nacional": null,
+   "Internacional": ""
+ },
+ {
+   "DENOMINACIÓN": "Fiestas Patronales de Santa Teresa",
+   "LOCALIDAD": "Alba de Tormes",
+   "PROVINCIA": "Salamanca",
+   "Regional": 2011,
+   "Nacional": null,
+   "Internacional": ""
+ },
+ {
+   "DENOMINACIÓN": "Nuestra Señora del Rosario: \"Los Encierros\"",
+   "LOCALIDAD": "Cuéllar",
+   "PROVINCIA": "Segovia",
+   "Regional": 1994,
+   "Nacional": 2008,
+   "Internacional": "2018"
+ },
+ {
+   "DENOMINACIÓN": "Romería del Santo Cristo del Caloco",
+   "LOCALIDAD": "El Espinar",
+   "PROVINCIA": "Segovia",
+   "Regional": 1996,
+   "Nacional": null,
+   "Internacional": ""
+ },
+ {
+   "DENOMINACIÓN": "Romería de Hontanares",
+   "LOCALIDAD": "Riaza",
+   "PROVINCIA": "Segovia",
+   "Regional": 1996,
+   "Nacional": null,
+   "Internacional": ""
+ },
+ {
+   "DENOMINACIÓN": "Fiestas de Santa Agueda",
+   "LOCALIDAD": "Zamarramala",
+   "PROVINCIA": "Segovia",
+   "Regional": 1996,
+   "Nacional": null,
+   "Internacional": ""
+ },
+ {
+   "DENOMINACIÓN": "Semana Santa",
+   "LOCALIDAD": "Segovia",
+   "PROVINCIA": "Segovia",
+   "Regional": 1999,
+   "Nacional": 2017,
+   "Internacional": ""
+ },
+ {
+   "DENOMINACIÓN": "La Fiesta de los Gabarreros",
+   "LOCALIDAD": "El Espinar",
+   "PROVINCIA": "Segovia",
+   "Regional": 2002,
+   "Nacional": null,
+   "Internacional": ""
+ },
+ {
+   "DENOMINACIÓN": "La Soldadesca",
+   "LOCALIDAD": "Iruecha",
+   "PROVINCIA": "Soria",
+   "Regional": 1991,
+   "Nacional": null,
+   "Internacional": ""
+ },
+ {
+   "DENOMINACIÓN": "Nuestra Señora de la Virgen del Pino y San Roque",
+   "LOCALIDAD": "Vinuesa",
+   "PROVINCIA": "Soria",
+   "Regional": 1995,
+   "Nacional": null,
+   "Internacional": ""
+ },
+ {
+   "DENOMINACIÓN": "La Bajada de Jesús Nazareno",
+   "LOCALIDAD": "Almazán",
+   "PROVINCIA": "Soria",
+   "Regional": 1996,
+   "Nacional": null,
+   "Internacional": ""
+ },
+ {
+   "DENOMINACIÓN": "Jornadas de la Matanza",
+   "LOCALIDAD": "El Burgo de Osma",
+   "PROVINCIA": "Soria",
+   "Regional": 1996,
+   "Nacional": null,
+   "Internacional": ""
+ },
+ {
+   "DENOMINACIÓN": "Fiestas de San Juan o de la Madre de Dios",
+   "LOCALIDAD": "Soria",
+   "PROVINCIA": "Soria",
+   "Regional": 1996,
+   "Nacional": null,
+   "Internacional": ""
+ },
+ {
+   "DENOMINACIÓN": "Semana Santa",
+   "LOCALIDAD": "El Burgo de Osma",
+   "PROVINCIA": "Soria",
+   "Regional": 1997,
+   "Nacional": null,
+   "Internacional": ""
+ },
+ {
+   "DENOMINACIÓN": "Viernes Santo",
+   "LOCALIDAD": "Ágreda",
+   "PROVINCIA": "Soria",
+   "Regional": 2000,
+   "Nacional": null,
+   "Internacional": ""
+ },
+ {
+   "DENOMINACIÓN": "Fiestas de S. Pascual  Bailón o El Zarrón",
+   "LOCALIDAD": "Almazán",
+   "PROVINCIA": "Soria",
+   "Regional": 2000,
+   "Nacional": null,
+   "Internacional": ""
+ },
+ {
+   "DENOMINACIÓN": "Paso del Fuego y Fiestas de las Móndidas",
+   "LOCALIDAD": "San Pedro Manrique",
+   "PROVINCIA": "Soria",
+   "Regional": null,
+   "Nacional": 1966,
+   "Internacional": ""
+ },
+ {
+   "DENOMINACIÓN": "Semana Santa",
+   "LOCALIDAD": "Soria",
+   "PROVINCIA": "Soria",
+   "Regional": 2008,
+   "Nacional": null,
+   "Internacional": ""
+ },
+ {
+   "DENOMINACIÓN": "Semana Santa",
+   "LOCALIDAD": "Medina del Campo",
+   "PROVINCIA": "Valladolid",
+   "Regional": 1993,
+   "Nacional": 2005,
+   "Internacional": "2011"
+ },
+ {
+   "DENOMINACIÓN": "Semana Santa",
+   "LOCALIDAD": "Tordesillas",
+   "PROVINCIA": "Valladolid",
+   "Regional": 1996,
+   "Nacional": null,
+   "Internacional": ""
+ },
+ {
+   "DENOMINACIÓN": "Toro de la Vega",
+   "LOCALIDAD": "Tordesillas",
+   "PROVINCIA": "Valladolid",
+   "Regional": 1996,
+   "Nacional": null,
+   "Internacional": ""
+ },
+ {
+   "DENOMINACIÓN": "Fiestas de Nuestra Señora y San Roque",
+   "LOCALIDAD": "Peñafiel",
+   "PROVINCIA": "Valladolid",
+   "Regional": 1997,
+   "Nacional": null,
+   "Internacional": ""
+ },
+ {
+   "DENOMINACIÓN": "El Vitor",
+   "LOCALIDAD": "Mayorga",
+   "PROVINCIA": "Valladolid",
+   "Regional": 2001,
+   "Nacional": 2003,
+   "Internacional": ""
+ },
+ {
+   "DENOMINACIÓN": "La Bajada del Angel",
+   "LOCALIDAD": "Peñafiel",
+   "PROVINCIA": "Valladolid",
+   "Regional": 2002,
+   "Nacional": 2011,
+   "Internacional": ""
+ },
+ {
+   "DENOMINACIÓN": "La Fiesta de la Vendimia",
+   "LOCALIDAD": "Cigales",
+   "PROVINCIA": "Valladolid",
+   "Regional": 2002,
+   "Nacional": null,
+   "Internacional": ""
+ },
+ {
+   "DENOMINACIÓN": "Los Encierros Tradicionales",
+   "LOCALIDAD": "Medina del Campo",
+   "PROVINCIA": "Valladolid",
+   "Regional": 2002,
+   "Nacional": 2011,
+   "Internacional": ""
+ },
+ {
+   "DENOMINACIÓN": "Semana Santa",
+   "LOCALIDAD": "Medina de Rioseco",
+   "PROVINCIA": "Valladolid",
+   "Regional": null,
+   "Nacional": 1985,
+   "Internacional": ""
+ },
+ {
+   "DENOMINACIÓN": "Semana Santa",
+   "LOCALIDAD": "Valladolid",
+   "PROVINCIA": "Valladolid",
+   "Regional": null,
+   "Nacional": null,
+   "Internacional": "1980"
+ },
+ {
+   "DENOMINACIÓN": "El Belen Viviente",
+   "LOCALIDAD": "Cabezón de Pisuerga",
+   "PROVINCIA": "Valladolid",
+   "Regional": 2004,
+   "Nacional": null,
+   "Internacional": ""
+ },
+ {
+   "DENOMINACIÓN": "Virgen de los Pegotes",
+   "LOCALIDAD": "Nava del Rey",
+   "PROVINCIA": "Valladolid",
+   "Regional": 2008,
+   "Nacional": null,
+   "Internacional": ""
+ },
+ {
+   "DENOMINACIÓN": "Los Encierros",
+   "LOCALIDAD": "Olmedo",
+   "PROVINCIA": "Valladolid",
+   "Regional": 2009,
+   "Nacional": null,
+   "Internacional": ""
+ },
+ {
+   "DENOMINACIÓN": "Los Pingüinos",
+   "LOCALIDAD": "Valladolid",
+   "PROVINCIA": "Valladolid",
+   "Regional": 2010,
+   "Nacional": null,
+   "Internacional": ""
+ },
+ {
+   "DENOMINACIÓN": "La Vaca Enmaromada",
+   "LOCALIDAD": "Palazuelo de Vedija",
+   "PROVINCIA": "Valladolid",
+   "Regional": 2010,
+   "Nacional": null,
+   "Internacional": ""
+ },
+ {
+   "DENOMINACIÓN": "Fiesta de la Vendimia",
+   "LOCALIDAD": "Rueda",
+   "PROVINCIA": "Valladolid",
+   "Regional": 2011,
+   "Nacional": null,
+   "Internacional": ""
+ },
+ {
+   "DENOMINACIÓN": "Cabalgata  ",
+   "LOCALIDAD": "Medina de Rioseco",
+   "PROVINCIA": "Valladolid",
+   "Regional": 2022,
+   "Nacional": null,
+   "Internacional": ""
+ },
+ {
+   "DENOMINACIÓN": "Festival de Teatro Alternativo",
+   "LOCALIDAD": "Urones de Castroponce ",
+   "PROVINCIA": "Valladolid",
+   "Regional": 2022,
+   "Nacional": null,
+   "Internacional": ""
+ },
+ {
+   "DENOMINACIÓN": "Toro Enmaromado",
+   "LOCALIDAD": "Benavente",
+   "PROVINCIA": "Zamora",
+   "Regional": 1991,
+   "Nacional": null,
+   "Internacional": ""
+ },
+ {
+   "DENOMINACIÓN": "El Carnaval",
+   "LOCALIDAD": "Toro",
+   "PROVINCIA": "Zamora",
+   "Regional": 1996,
+   "Nacional": null,
+   "Internacional": ""
+ },
+ {
+   "DENOMINACIÓN": "Los Carochos",
+   "LOCALIDAD": "Riofrío de Aliste",
+   "PROVINCIA": "Zamora",
+   "Regional": 2002,
+   "Nacional": null,
+   "Internacional": ""
+ },
+ {
+   "DENOMINACIÓN": "Fiesta de la Vendimia",
+   "LOCALIDAD": "Toro",
+   "PROVINCIA": "Zamora",
+   "Regional": 2003,
+   "Nacional": null,
+   "Internacional": ""
+ },
+ {
+   "DENOMINACIÓN": "Semana Santa",
+   "LOCALIDAD": "Zamora",
+   "PROVINCIA": "Zamora",
+   "Regional": null,
+   "Nacional": 1980,
+   "Internacional": "1986"
+ },
+ {
+   "DENOMINACIÓN": "La Veguilla",
+   "LOCALIDAD": "Benavente",
+   "PROVINCIA": "Zamora",
+   "Regional": 2004,
+   "Nacional": null,
+   "Internacional": ""
+ },
+ {
+   "DENOMINACIÓN": "El Zangarrón",
+   "LOCALIDAD": "Sanzoles del Vino",
+   "PROVINCIA": "Zamora",
+   "Regional": 2005,
+   "Nacional": null,
+   "Internacional": ""
+ },
+ {
+   "DENOMINACIÓN": "Semana Santa",
+   "LOCALIDAD": "Toro",
+   "PROVINCIA": "Zamora",
+   "Regional": 2008,
+   "Nacional": null,
+   "Internacional": ""
+ },
+ {
+   "DENOMINACIÓN": "Romería de los Viriatos",
+   "LOCALIDAD": "Fariza ",
+   "PROVINCIA": "Zamora",
+   "Regional": 2010,
+   "Nacional": null,
+   "Internacional": ""
+ },
+ {
+   "DENOMINACIÓN": "Viernes Santo",
+   "LOCALIDAD": "Bercianos de Aliste",
+   "PROVINCIA": "Zamora",
+   "Regional": 2011,
+   "Nacional": null,
+   "Internacional": ""
+ },
+ {
+   "DENOMINACIÓN": "Mercado Medieval",
+   "LOCALIDAD": "Puebla de Sanabria",
+   "PROVINCIA": "Zamora",
+   "Regional": 2017,
+   "Nacional": null,
+   "Internacional": ""
+ }
+]
